@@ -1,0 +1,9 @@
+NOMBRES Y APELLIDOS:
+Paulina Castrataro
+Franco Esposito 
+Axel Castellano 
+
+A- El fondo que tiene TESTING es: Azul
+B- El fondo que tiene DESARROLLO es: Amarillo
+C- El fondo que tiene MAIN es: Azul
+D- Quedaron los 2 (uno no piso el favicon del otro)
